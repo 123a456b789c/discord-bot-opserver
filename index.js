@@ -218,5 +218,5 @@ client.on('message', message => {
 
 
 // Replace the value between the quotes with your token
-client.login('NjY3NDIzNTI0OTYwMzM3OTQ0.XiCgog.JxBxkY16qsRQQPgn_7rCyGN-JTE');
+client.login('NjY3NDIzNTI0OTYwMzM3OTQ0.XicjCA.e2DFCP1cXW3BXlK2dLmAcIF4cx4');
 
